@@ -1,0 +1,28 @@
+{
+    "gallery": [
+        {
+            "author": "Gagan Vasanth",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/gallery-app-88687.appspot.com/o/images%2FElon_musk.jpg?alt=media&token=f9bb8f93-6ab9-4aa2-8263-1da88c82a57f",
+            "likes": 0,
+            "dislikes": 0,
+            "like_arr": [],
+            "dislikes_arr": []
+        },
+        {
+            "author": "Gagan Vasanth",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/gallery-app-88687.appspot.com/o/images%2FMark.jpg?alt=media&token=473e27fd-b28c-4a18-8da0-c70675f2d6d8",
+            "likes": 0,
+            "dislikes": 0,
+            "like_arr": [],
+            "dislikes_arr": []
+        },
+        {
+            "author": "Gagan Vasanth",
+            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/gallery-app-88687.appspot.com/o/images%2FSteve%20jobs.jfif?alt=media&token=ef596e84-b245-45b3-a7ad-4d512e2b02b5",
+            "likes": 0,
+            "dislikes": 0,
+            "like_arr": [],
+            "dislikes_arr": []
+        }
+    ]
+}

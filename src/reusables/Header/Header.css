@@ -1,0 +1,38 @@
+.header_container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 10vh;
+    background: #559CAD;
+    margin-bottom: 2rem;
+
+}
+
+.header_logo {
+    position: absolute;
+    display: inline-block;
+    padding: 12px 20px;
+    color: #FFFFFF;
+}
+
+.header_user {
+    position: absolute;
+    display: block;
+    height: 100%;
+    padding: 1vh 10px;
+    color: #FFFFFF;
+    right: 1%;
+}
+
+.header_btn {
+    position: absolute;
+    display: block;
+    color: #FFFFFF;
+    margin: 32px 10px;
+    right: 1%;
+    outline: none;
+    background: #559CAD;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
